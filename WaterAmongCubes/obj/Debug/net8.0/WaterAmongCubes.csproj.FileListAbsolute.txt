@@ -1,0 +1,15 @@
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/bin/Debug/net8.0/WaterAmongCubes
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/bin/Debug/net8.0/WaterAmongCubes.deps.json
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/bin/Debug/net8.0/WaterAmongCubes.runtimeconfig.json
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/bin/Debug/net8.0/WaterAmongCubes.dll
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/bin/Debug/net8.0/WaterAmongCubes.pdb
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/obj/Debug/net8.0/WaterAmongCubes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/obj/Debug/net8.0/WaterAmongCubes.AssemblyInfoInputs.cache
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/obj/Debug/net8.0/WaterAmongCubes.AssemblyInfo.cs
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/obj/Debug/net8.0/WaterAmongCubes.csproj.CoreCompileInputs.cache
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/obj/Debug/net8.0/WaterAmongCubes.sourcelink.json
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/obj/Debug/net8.0/WaterAmongCubes.dll
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/obj/Debug/net8.0/refint/WaterAmongCubes.dll
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/obj/Debug/net8.0/WaterAmongCubes.pdb
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/obj/Debug/net8.0/WaterAmongCubes.genruntimeconfig.cache
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/obj/Debug/net8.0/ref/WaterAmongCubes.dll
