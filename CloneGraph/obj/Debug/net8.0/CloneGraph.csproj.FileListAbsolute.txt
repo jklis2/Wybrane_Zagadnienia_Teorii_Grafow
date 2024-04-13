@@ -1,0 +1,14 @@
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/bin/Debug/net8.0/CloneGraph
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/bin/Debug/net8.0/CloneGraph.deps.json
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/bin/Debug/net8.0/CloneGraph.runtimeconfig.json
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/bin/Debug/net8.0/CloneGraph.dll
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/bin/Debug/net8.0/CloneGraph.pdb
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/obj/Debug/net8.0/CloneGraph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/obj/Debug/net8.0/CloneGraph.AssemblyInfoInputs.cache
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/obj/Debug/net8.0/CloneGraph.AssemblyInfo.cs
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/obj/Debug/net8.0/CloneGraph.csproj.CoreCompileInputs.cache
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/obj/Debug/net8.0/CloneGraph.dll
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/obj/Debug/net8.0/refint/CloneGraph.dll
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/obj/Debug/net8.0/CloneGraph.pdb
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/obj/Debug/net8.0/CloneGraph.genruntimeconfig.cache
+/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/obj/Debug/net8.0/ref/CloneGraph.dll
