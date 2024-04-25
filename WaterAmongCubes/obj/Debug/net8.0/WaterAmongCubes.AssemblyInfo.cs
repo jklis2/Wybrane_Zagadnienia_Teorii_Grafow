@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WaterAmongCubes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dfad209dcc269288324ed04198dfbde4435316c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7164b9bd98f112a9b7ca44952087cec8d59a09a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("WaterAmongCubes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WaterAmongCubes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

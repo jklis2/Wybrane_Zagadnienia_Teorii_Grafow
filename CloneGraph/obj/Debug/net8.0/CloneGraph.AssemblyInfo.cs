@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloneGraph")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7164b9bd98f112a9b7ca44952087cec8d59a09a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloneGraph")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloneGraph")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

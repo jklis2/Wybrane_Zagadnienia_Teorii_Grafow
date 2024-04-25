@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WaterAmongCubes
-build_property.ProjectDir = /Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/WaterAmongCubes/
+build_property.ProjectDir = C:\Users\jakub\Documents\GitHub\Wybrane_Zagadnienia_Teorii_Grafow\WaterAmongCubes\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

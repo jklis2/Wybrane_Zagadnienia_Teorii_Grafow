@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/jakubklis/.nuget/packages/": {}
+    "C:\\Users\\jakub\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/CloneGraph.csproj",
+      "projectUniqueName": "C:\\Users\\jakub\\Documents\\GitHub\\Wybrane_Zagadnienia_Teorii_Grafow\\CloneGraph\\CloneGraph.csproj",
       "projectName": "CloneGraph",
-      "projectPath": "/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/CloneGraph.csproj",
-      "packagesPath": "/Users/jakubklis/.nuget/packages/",
-      "outputPath": "/Users/jakubklis/Documents/Github/Wybrane_Zagadnienia_Teorii_Grafow/CloneGraph/obj/",
+      "projectPath": "C:\\Users\\jakub\\Documents\\GitHub\\Wybrane_Zagadnienia_Teorii_Grafow\\CloneGraph\\CloneGraph.csproj",
+      "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jakub\\Documents\\GitHub\\Wybrane_Zagadnienia_Teorii_Grafow\\CloneGraph\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jakubklis/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
