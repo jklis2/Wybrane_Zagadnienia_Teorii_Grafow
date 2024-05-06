@@ -59,25 +59,31 @@ class Program
 {
     static void Main(string[] args)
     {
-        UnionFind uf = new UnionFind();
-        string line;
-
-        while ((line = Console.ReadLine()) != null && line != "")
+        using (StreamReader reader = new StreamReader(Console.OpenStandardInput()))
+        using (StreamWriter writer = new StreamWriter(Console.OpenStandardOutput()))
         {
-            string[] parts = line.Split();
-            string command = parts[0];
-            string ip1 = parts[1];
-            string ip2 = parts[2];
+            writer.AutoFlush = false;
+            UnionFind uf = new UnionFind();
+            string line;
 
-            if (command == "B")
+            while ((line = reader.ReadLine()) != null && line != "")
             {
-                uf.Union(ip1, ip2);
+                string[] parts = line.Split();
+                string command = parts[0];
+                string ip1 = parts[1];
+                string ip2 = parts[2];
+
+                if (command == "B")
+                {
+                    uf.Union(ip1, ip2);
+                }
+                else if (command == "T")
+                {
+                    bool isConnected = uf.Connected(ip1, ip2);
+                    writer.WriteLine(isConnected ? "T" : "N");
+                }
             }
-            else if (command == "T")
-            {
-                bool isConnected = uf.Connected(ip1, ip2);
-                Console.WriteLine(isConnected ? "T" : "N");
-            }
+            writer.Flush();
         }
     }
 }
